@@ -3,6 +3,8 @@ A visual program to show how my push_swap works.
 
 Made with CSFML.
 
+Youtube video showing it: https://youtu.be/U8jx_Gt_bD4
+
 # How to use it:
 
 First you'll need to have CSFML installed.
