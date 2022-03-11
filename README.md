@@ -13,8 +13,6 @@ You will need to clone the repository.
 
 Make sure you have git and [CSFML](https://www.sfml-dev.org/download/csfml/) installed on your computer, and that it runs on linux.
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
 ```bash
 git clone https://github.com/Quentin-Desmettre/epitech-push_swap
 ```
